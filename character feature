@@ -1,0 +1,5 @@
+git checkout -b add-character-3
+# Add new images, update script.js
+git add .
+git commit -m "Add Character 3"
+git push origin add-character-3
